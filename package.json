@@ -1,0 +1,11 @@
+{
+  "name": "aum-content-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Telegram note to scored, news-anchored LinkedIn and X drafts in the Voice of AUM.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dry-run": "node scripts/dry-run.js"
+  }
+}
